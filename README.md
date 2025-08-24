@@ -28,5 +28,6 @@
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=firefox&logoColor=white)](https://seusite.com)
 
 ---
+![Snake animation](https://github.com/NicolasRibe/NicolasRibe/edit/main/README.md)
 
 ⭐ *"Sempre aprendendo e compartilhando conhecimento!"*
