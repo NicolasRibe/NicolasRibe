@@ -1,4 +1,4 @@
-# Olá, meu nome é Nicolas ! 👋
+# Olá! Eu sou o Nicolas Ribeiro ! 👋
 
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor focado em Back-End, sistemas embarcados e redes
