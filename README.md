@@ -28,7 +28,9 @@
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=firefox&logoColor=white)](https://seusite.com)
 
 ---
-![Snake animation](https://github.com/NicolasRibe/NicolasRibe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NicolasRibe/NicolasRibe/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/NicolasRibe/NicolasRibe/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ⭐ *"Sempre aprendendo e compartilhando conhecimento!"*
